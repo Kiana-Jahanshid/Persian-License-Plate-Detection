@@ -1,0 +1,14 @@
+path: /content/drive/MyDrive/License_Plate_Dataset
+train: images/train
+val: images/validation
+test: images/test
+
+nc: 1
+names: ['License-Plate']
+
+roboflow:
+  workspace: sajjad-aemmi
+  project: persian-license-plate-detection
+  version: 2
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/sajjad-aemmi/persian-license-plate-detection/dataset/2
