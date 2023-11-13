@@ -2,7 +2,7 @@
 
 # Description :
 
-
+using YOLOv8 
 
 
 # How to install
@@ -22,29 +22,35 @@ you can run `License_Plate_detection.ipynb` file and train model : <br/>
 
 # Results : 
 
-![image](Persian-License-Plate-Recognition/assets/result_1.png)
+![image](assets/result_1.png)
 
-![image](Persian-License-Plate-Recognition/assets/result_2.png)
+![image](assets/result_2.png)
 
-![image](Persian-License-Plate-Recognition/assets/result_3.png)
+![image](assets/result_3.png)
 
-![image](Persian-License-Plate-Recognition/assets/result_4.png)
+![image](assets/result_4.png)
 
 ### normalized confusion matrix :
+
 <p float="center">
-    <img src  = "Persian-License-Plate-Recognition\assets\confusion_matrix_normalized.png" width=550 /> 
+    <img src  = "assets/confusion_matrix_normalized.png" width=550 /> 
 </p>
 <br />
 
 ### F1 curve :
 <p float="center">
-    <img src  = "Persian-License-Plate-Recognition\assets\F1_curve.png" width=550 /> 
+    <img src  = "assets/F1_curve.png" width=550 /> 
 </p>
 <br />
 
 ### PR curve
 <p float="center">
-    <img src  = "Persian-License-Plate-Recognition\assets\PR_curve.png" width=550 /> 
+    <img src  = "assets/PR_curve.png" width=550 /> 
 </p>
 <br />
 
+### labels_correlogram
+<p float="center">
+    <img src  = "assets/labels_correlogram.jpg" width=550 /> 
+</p>
+<br />
