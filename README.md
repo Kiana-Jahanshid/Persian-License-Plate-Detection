@@ -1,4 +1,4 @@
-# Persian License Plate Recognition
+# Persian License Plate Detection
 
 # Description :
 
